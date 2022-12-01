@@ -1,0 +1,18 @@
+shopping list project sequence :
+
+
+1. Handling from input
+2. working with validation
+3. add product
+4. making function flexible
+5. delete product
+6. storing data
+7. adding product to local storage
+8. showing all item to storage
+9. remove product from storage
+10. populating form in edit state
+11. update product
+12. cleat edit storage
+13. update product to local storage
+14. filter product
+15. 
